@@ -11,3 +11,5 @@
 1. Push this change back up to your repo (`git push origin master`).
 
 ## Your paragraph here:
+
+I watched "The Web Can Do That!?" I already knew a little of what he talked about, such as the ability to use CSS in web apps and accessing a computer's camera and microphone. There were also some things I know I'd heard about at some point, but had since forgotten about (having not had a reason to think back) such as some of the media options. There were also things that I was unfamiliar with that are actually apparently old, but which have been improved. I did find it somewhat odd that the man speaking started with this thing about proving wrong those who has that HTML can't do certain things, when most of his examples used CSS and/or JavaScript to actually work; I can understand lumping CSS in, but I still see JavaScript as a very much separate thing. The main thing I pulled from this though was: how did I not know about CSS flexbox, and what might I get to use calc on?
